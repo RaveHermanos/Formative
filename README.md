@@ -1,7 +1,6 @@
 # Formative
 
-## Content map
-![content map](https://cloud.githubusercontent.com/assets/22593770/26053540/2f8b05c6-3961-11e7-8055-45872bb2c2ad.jpg)
+##  who are the competitors and how do they communicate online?
 
-## Personas
-![personas1](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.18.57.png)
+## Main Competition
+After searching the market for similar or the same course I found that no course was identical to ours but these below are very similar and are the main competition in this competitive market.
