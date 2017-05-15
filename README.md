@@ -33,6 +33,17 @@ The designer has thought of how he can place a mass amount of text without it lo
 
 ## Our Designs
 
+### First Design Idea
+![mad design innit](https://github.com/RaveHermanos/Formative/blob/master/FIRST%20DESIGN.png)
+
+### Final Design Idea
+![introduction](https://github.com/RaveHermanos/Formative/blob/master/INTRODUCTION.png)
+![course details](https://github.com/RaveHermanos/Formative/blob/master/COURSE%20DETAILS.png)
+![apply for the course](https://github.com/RaveHermanos/Formative/blob/master/APPLY%20FOR%20THIS%20COURSE.png)
+![what your course will look like](https://github.com/RaveHermanos/Formative/blob/master/WHAT%20YOUR%20COURSE%20WILL%20LOOK%20LIKE.png)
+![book a taster](https://github.com/RaveHermanos/Formative/blob/master/Book%20A%20Taster.png)
+![lecturers](https://github.com/RaveHermanos/Formative/blob/master/LECTURERS.png)
+
 
 
 # Presentation
