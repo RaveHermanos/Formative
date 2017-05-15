@@ -41,13 +41,13 @@ The designer has thought of how he can place a mass amount of text without it lo
 
 #### Home / Introduction
 
-The main concept is to have the menu bar fixed on the left. Keeping it simple, minimal and clean is what I was going for. The blue was used to ensure trust with Ravensbourne. My main importance was the 'Book a lecture' section as that will allow the user to get onboard with 100% enthusiasm and know what to expect. The design also has information like the Unistats which some people found frustrating to have.
+The main concept is to have the menu bar fixed on the left. Keeping it simple, minimal and clean is what I was going for. The blue was used to ensure trust with Ravensbourne. My main importance was the 'Book a lecture' section as that will allow the user to get onboard with 100% enthusiasm and know what to expect. The design also has information like the Unistats which some people found frustrating to have. There is also media at the bottom which will show videos and images.
 
 ![course details](https://github.com/RaveHermanos/Formative/blob/master/COURSE%20DETAILS.png)
 
 #### Course Details
 
-I ensured only relevant information will be on this page. It will give you the UCAS codes, entry requirements as well as the fees.
+I ensured only relevant information will be on this page. It will give you the UCAS codes, entry requirements as well as the fees. Users can choose what type of student they are and then the fee will generate.
 
 
 ![apply for the course](https://github.com/RaveHermanos/Formative/blob/master/APPLY%20FOR%20THIS%20COURSE.png)
