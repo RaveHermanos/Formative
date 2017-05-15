@@ -38,8 +38,24 @@ The designer has thought of how he can place a mass amount of text without it lo
 
 ### Final Design Idea
 ![introduction](https://github.com/RaveHermanos/Formative/blob/master/INTRODUCTION.png)
+
+#### Home / Introduction
+
+The main concept is to have the menu bar fixed on the left. Keeping it simple, minimal and clean is what I was going for. The blue was used to ensure trust with Ravensbourne. My main importance was the 'Book a lecture' section as that will allow the user to get onboard with 100% enthusiasm and know what to expect. The design also has information like the Unistats which some people found frustrating to have.
+
 ![course details](https://github.com/RaveHermanos/Formative/blob/master/COURSE%20DETAILS.png)
+
+#### Course Details
+
+I ensured only relevant information will be on this page. It will give you the UCAS codes, entry requirements as well as the fees.
+
+
 ![apply for the course](https://github.com/RaveHermanos/Formative/blob/master/APPLY%20FOR%20THIS%20COURSE.png)
+
+#### Apply
+
+I used the gamification approach in this, useres would have to select where they are located, if they press home and EU, they will be redirected to UCAS. The blue BG is the hover state. The admission's email is there as well as the contact form which people can get in touch.
+
 ![what your course will look like](https://github.com/RaveHermanos/Formative/blob/master/WHAT%20YOUR%20COURSE%20WILL%20LOOK%20LIKE.png)
 ![book a taster](https://github.com/RaveHermanos/Formative/blob/master/Book%20A%20Taster.png)
 ![lecturers](https://github.com/RaveHermanos/Formative/blob/master/LECTURERS.png)
