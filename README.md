@@ -1,4 +1,7 @@
 # Formative
+# Brief
+
+We have to make a website to promote our course, which is BA (Hons) Web Media Production for the next year students. We need to do a variety of research methods in order to make this a success. In this document you will find out what we have done, and the steps we have taken to make the final outcome.
 
 ## Content map
 ![content map](https://cloud.githubusercontent.com/assets/22593770/26053540/2f8b05c6-3961-11e7-8055-45872bb2c2ad.jpg)
