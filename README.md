@@ -27,9 +27,9 @@ In my opinion these two course pages are poor and we should avoid doing what the
 
 ![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good.png)
 
-![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good2.png)
+![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good1.png)
 
-![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good3.png)
+![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good2.png)
 
 Checking around at other universities I found that the best course pages were by far the ones that do not flood you with writing and information but rather keep it neat and simple with a clear video explaining the course these are two good examples. Birmingham is a really good example of a main competitor after searching the market to evaluate other courses I found that the way Birmingham had it presented was far better than the rest. This is due to the fact as soon as you arrive on the page you are welcomed with a wide screen video which is as a user is almost impossible to ignore and not watch, having the video is the best way to communicate what the course offers and the easiest way for people to absorb information.
 
@@ -91,6 +91,7 @@ We thought of different ways to show the structure of the content and we ended u
 #### Book a taster
 
 This is a really important section of the website because it gives the opportunity to the reader to book a taster so they can get the real feeling of how the lecturers will be. The design we made in this page was quite simple as we wanted to make sure that who ever is reading this knows exactly what's going on. We kept the main information on the right side and on the left you can book a taster immediately. 
+
 ![lecturers](https://github.com/RaveHermanos/Formative/blob/master/LECTURERS.png)
 
 #### Lecturers
