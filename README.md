@@ -14,7 +14,7 @@
 ![Clarenceidea](https://github.com/RaveHermanos/Formative/blob/master/Claranz%20Wire%20Frame.jpg)
 ### Kevin's Wireframe
 ![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD.png)
-![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy.png)
+![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy-fixed.png)
 
 ### Wireframe
 
@@ -28,6 +28,9 @@ The above layout is visually appealing, attractive. The content is nothing relat
 ![Visually appealing layout](https://github.com/RaveHermanos/Formative/blob/master/Images/Section.png)
 
 The designer has thought of how he can place a mass amount of text without it looking boring. He has clrealy thought how to place a title so it is still legible however not dominating other content. This could be something I can try in the Our Space project.
+
+##Our Designs
+
 
 
 # Presentation
