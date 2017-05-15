@@ -9,6 +9,26 @@
 ![personas3](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.20.52.png)
 ![personas4](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.21.16.png)
 
+## Bad Examples
+
+![bad](https://github.com/RaveHermanos/Formative/blob/master/Images/bad.png)
+
+![bad](https://github.com/RaveHermanos/Formative/blob/master/Images/bad1.png)
+
+![bad](https://github.com/RaveHermanos/Formative/blob/master/Images/bad2.png)
+
+In my opinion these two course pages are poor and we should avoid doing what they have done for example, London met has no video or imagery just lots of text which is really dull and unattractive and would not motivate anyone. With Canterbury they also have no video and have wasted half the page using an irrelevant image which does not convey the course nor does it give the user a good understanding.
+
+## Good Examples
+
+![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good.png)
+
+![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good2.png)
+
+![good](https://github.com/RaveHermanos/Formative/blob/master/Images/good3.png)
+
+Checking around at other universities I found that the best course pages were by far the ones that do not flood you with writing and information but rather keep it neat and simple with a clear video explaining the course these are two good examples. Birmingham is a really good example of a main competitor after searching the market to evaluate other courses I found that the way Birmingham had it presented was far better than the rest. This is due to the fact as soon as you arrive on the page you are welcomed with a wide screen video which is as a user is almost impossible to ignore and not watch, having the video is the best way to communicate what the course offers and the easiest way for people to absorb information.
+
 ## First Wireframes Ideas
 ### Clarence's Wireframe
 ![Clarenceidea](https://github.com/RaveHermanos/Formative/blob/master/Claranz%20Wire%20Frame.jpg)
