@@ -15,9 +15,8 @@
 ### Kevin's Wireframe
 ![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD.png)
 ![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy.png)
-<<<<<<< Updated upstream
+
 ### Wireframe
-=======
 
 
 ## Moodboard
@@ -34,4 +33,3 @@ The designer has thought of how he can place a mass amount of text without it lo
 # Presentation
 
 [Download our amazing presentation](https://drive.google.com/open?id=0B2VBmeX3V4a4c0pDMHhZOTdPZk0)
->>>>>>> Stashed changes
