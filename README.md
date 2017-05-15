@@ -15,4 +15,23 @@
 ### Kevin's Wireframe
 ![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD.png)
 ![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy.png)
+<<<<<<< Updated upstream
 ### Wireframe
+=======
+
+
+## Moodboard
+
+![Visually appealing layout](https://github.com/RaveHermanos/Formative/blob/master/Images/square.png)
+
+The above layout is visually appealing, attractive. The content is nothing related to what we have for Our Space. I can still take inspiration from the colour theory, typography and overall shaping used within the layout. I know it is a sans-serif font, with experience I know that sans-serif is a friendly and modern font. They have also used  The use of blue is repeated, I assume that it is to enforce trust. The designer has managed to combine the page together by placing shadows underneath the phone, and having a big blue box which is used between two elements.
+
+![Visually appealing layout](https://github.com/RaveHermanos/Formative/blob/master/Images/Section.png)
+
+The designer has thought of how he can place a mass amount of text without it looking boring. He has clrealy thought how to place a title so it is still legible however not dominating other content. This could be something I can try in the Our Space project.
+
+
+# Presentation
+
+[Download our amazing presentation](https://drive.google.com/open?id=0B2VBmeX3V4a4c0pDMHhZOTdPZk0)
+>>>>>>> Stashed changes
