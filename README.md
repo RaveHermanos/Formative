@@ -16,8 +16,10 @@
 ![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD.png)
 ![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy-fixed.png)
 
-### Wireframe
+### Mayur's Wireframe
 
+![wf1](https://github.com/RaveHermanos/Formative/blob/master/mayur_wf.png)
+![wf2](https://github.com/RaveHermanos/Formative/blob/master/mwf2.png)
 
 ## Moodboard
 
@@ -29,7 +31,7 @@ The above layout is visually appealing, attractive. The content is nothing relat
 
 The designer has thought of how he can place a mass amount of text without it looking boring. He has clrealy thought how to place a title so it is still legible however not dominating other content. This could be something I can try in the Our Space project.
 
-##Our Designs
+## Our Designs
 
 
 
