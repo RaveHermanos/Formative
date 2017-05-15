@@ -10,6 +10,9 @@
 ![personas4](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.21.16.png)
 
 ## First Wireframes Ideas
+### Clarence Wireframe
 ![Clarenceidea](https://github.com/RaveHermanos/Formative/blob/master/Claranz%20Wire%20Frame.jpg)
+### Kevin Wireframe
 ![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD.png)
 ![Kevinidea2part](https://github.com/RaveHermanos/Formative/blob/master/Desktop%20HD%20Copy.png)
+### Wireframe
