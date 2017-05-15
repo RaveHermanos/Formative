@@ -7,4 +7,4 @@
 ![personas1](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.18.57.png)
 ![personas2](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.19.50.png)
 ![personas3](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.20.52.png)
-![personas4](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.20.52.png)
+![personas4](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.21.16.png)
