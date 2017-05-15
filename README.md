@@ -8,3 +8,7 @@
 ![personas2](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.19.50.png)
 ![personas3](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.20.52.png)
 ![personas4](https://github.com/RaveHermanos/Formative/blob/master/Screen%20Shot%202017-05-15%20at%2011.21.16.png)
+
+## First Wireframes Ideas
+![Clarenceidea](https://github.com/RaveHermanos/Formative/blob/master/Claranz%20Wire%20Frame.jpg)
+![Kevinidea](https://github.com/RaveHermanos/Formative/blob/master/RAVENSBOURNE%20WEBSITE.pdf)
