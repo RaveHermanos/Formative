@@ -54,7 +54,7 @@ I ensured only relevant information will be on this page. It will give you the U
 
 #### Apply
 
-I used the gamification approach in this, useres would have to select where they are located, if they press home and EU, they will be redirected to UCAS. The blue BG is the hover state. The admission's email is there as well as the contact form which people can get in touch.
+I used the gamification approach in this, users would have to select where they are located, if they press home and EU, they will be redirected to UCAS. The blue BG is the hover state. The admission's email is there as well as the contact form which people can get in touch.
 
 ![what your course will look like](https://github.com/RaveHermanos/Formative/blob/master/WHAT%20YOUR%20COURSE%20WILL%20LOOK%20LIKE.png)
 ![book a taster](https://github.com/RaveHermanos/Formative/blob/master/Book%20A%20Taster.png)
